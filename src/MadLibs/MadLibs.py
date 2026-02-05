@@ -1,3 +1,5 @@
+from MadLibsStory import MadLibsStory
+
 replay = True
 while replay == True:
     print("Welcome to Murder Mystery Mad Libs! Please choose one of the following stories to complete: ")
@@ -15,14 +17,7 @@ while replay == True:
                 print("Please input a valid story selection.")
             else:
                 break
-    if storyNum == 1:
-        pass
-    elif storyNum == 2:
-        pass
-    elif storyNum == 3:
-        pass
-    else:
-        pass
+    MadLibsStory(storyNum)
     if input("Would you like to make another story? Enter 'y' to continue: ") != 'y':
         replay == False
         print("Awww... you could have had so much fun. Your life must be so sad and depressing. Bye Bye.")
