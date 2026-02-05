@@ -1,13 +1,13 @@
 class MadLibsStory:
-    def __innit__ (self, s1, s2, s3, s4, sNum,userWords):
-        self.s1="Hello, my name is |name|. I love to eat |noun|. Today I went to the (place) and ate (noun) again.  "
-        self.s2=" "
-        self.s3=""
-        self.s4=" "
-        self.sNum=sNum
-        self.userWords=userWords
-    def story( self):
-        i=0 
-        while "|" in self.s1:
-            s1=s1[0:s1.index("|")]+self.userWords[i]+s1[s1.index("|")+1:]
-        return s1
+    story = ["Hello my name is @name*. I like to eat @food*."]
+    userWords = []
+
+    def __init__(self,sNum):
+        self.sNum = sNum
+    
+    def story(self,story,userWords):
+        while "*" in story[self.sNum-1]:
+            userWords.append(input("Input a " + story[self.sNum-1][story[self.sNum-1].index("@")+1:story[self.sNum-1].index("*")] + "here: "))
+            story[self.sNum-1]=story[self.sNum-1][:story[self.sNum-1].index("@")] + " | " + story[self.sNum-1][story[self.sNum-1].index("*")+1:]
+        return(userWords)
+
