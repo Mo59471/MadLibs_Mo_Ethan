@@ -3,7 +3,7 @@ from MadLibsStory import MadLibsStory
 replay = True
 while replay == True:
     print("Welcome to Murder Mystery Mad Libs! Please choose one of the following stories to complete: ")
-    print("1. Story 1")
+    print("1. I Want to Solve a Murder Mystery")
     print("2. Story 2")
     print("3. Story 3")
     print("4. Story 4")
