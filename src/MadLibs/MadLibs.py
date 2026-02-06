@@ -3,7 +3,7 @@ from MadLibsStory import MadLibsStory
 replay = True
 while replay == True:
     print("Welcome to Murder Mystery Mad Libs! Please choose one of the following stories to complete: ")
-    print("1. I Want to Solve a Murder Mystery")
+    print("1. Story 1")
     print("2. Story 2")
     print("3. Story 3")
     print("4. Story 4")
@@ -17,9 +17,11 @@ while replay == True:
                 print("Please input a valid story selection.")
             else:
                 break
-    MadLibsStory(storyNum)
+    s = MadLibsStory(storyNum) #Initialize class
+    userWords, story = s.getWords() #Create two variables to be passed into the 'makeStory' method using the returns of 'getWords'
+    s.makeStory(userWords,story)
     if input("Would you like to make another story? Enter 'y' to continue: ") != 'y':
-        replay == False
+        replay = False
         print("Awww... you could have had so much fun. Your life must be so sad and depressing. Bye Bye.")
     
 
