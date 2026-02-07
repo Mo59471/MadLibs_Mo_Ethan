@@ -23,9 +23,11 @@ This project is broken into two Python files: a main file containing the welcome
    - Within the 'getWords' method, the two lists 'userWords' and 'story' are initialized
      - The 'story' list contains four strings for all four mad lib template stories, each of which contain special characters that mark where user inputs are to be substituted
      - Within the 'story' list, individual stories are retrieved using their index (which is determined by 'sNum')
-   - The getWords method utilizes while loops to cycle through one of the strings in the story list, identifying the special character markers and calling for a user input for each (which is then appended to 'userWords'), slicing the filler text between the special character markers and replacing them with a '|'
+   - The getWords method utilizes while loops to cycle through one of the strings in the story list, identifying the special character markers and calling for a user input for each (which is then appended to
+     'userWords'), slicing the filler text between the special character markers and replacing them with a '|'
      - This method returns the modified story list and the userWords list
-   - The makeStory method (which takes the 'story' asnd 'userWords' lists as parameters) iterates through the 'userWords' list and replaces the '|' characters in the story with its elements (which are in corresponding order)
+   - The makeStory method (which takes the 'story' asnd 'userWords' lists as parameters) iterates through the 'userWords' list and replaces the '|' characters in the story with its elements (which are in
+     corresponding order)
      - The method then prints the final story
   
 &nbsp;
