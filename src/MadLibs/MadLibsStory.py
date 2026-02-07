@@ -18,6 +18,85 @@ class MadLibsStory:
     On second thought, what I was experiencing couldn’t be further away from a murder mystery; after all, there was no murderer to find. After spending some time lamenting my disappointment and scolding my cognitive bias for jumping to such a far-fetched conclusion, I squatted, as if asking the heavens didn’t yield a result and I brought myself to the ground to ask the bad place under it for an answer instead. My hair fluttered as a car passed by, bringing the glint of the morning sun reflected into my eyes. The morning rush hour had passed, but vehicles still passed by on the asphalt regularly, their metallic glint resembling the blade of an executioner flattening someone’s shoulders. What was I even doing here? Now that I think about it, I was supposed to be attending a funeral of my own, one for someone that had passed on so mundanely that I immediately developed a desire to immerse myself in another’s death that was much more extraordinary. I turned my gaze to the sky, perhaps hoping that such an inherently boring action would allow me to forcefully accept and embrace the boredom I had been running away from. Today’s sky really was *color@.
 """,
 """
+	The cries of a phone were silenced through a deft tap to its screen as the request of the caller was met with a response. 
+
+	“Hello, is this *name@?”
+
+	I, ^0~, tilted my head, pondering for a moment, before spinning a lie as if I was breathing:
+
+	“No, my name is Fei Wu”
+
+	“Very well then, yeah, I’m looking for Fei Wu, my name is Zhen Cha Yuan.”
+
+	“Wait, I thought you were looking for-”
+
+	“Did I say something?”
+
+	A sigh shook the surrounding atmosphere of the room.
+
+	“Sure then, Zhen Cha Yuan, what do you want?”
+
+	“The world is ending soon, implying the extinction of humanity, or in other words, something or someone is killing everyone; this will be the greatest serial murder in the history of humanity and it is therefore my responsibility as the greatest detective in the history of humanity to solve this muder mystery! Do you know anything about-”
+
+	“No I don’t, bye bye.”
+
+	I moved to hang up the phone, yet I was not met with the beep that came with such an action, but the sound of the doorbell. For the second time, another sigh traveled through the room. Upon opening the door, the figure of a girl wearing a detective cap that automatically made her look like anything but a detective and a smirk so potent that I had practically heard it through the phone confronted me. Phone calls are used to communicate over a long distance, yet this cheeky detective had used such a great invention so aesthetically; maybe if Alexander Graham Bell knew what his *adjective placing importance on something@ invention was used for today, he would *action related to movment@ out of his grave to scold both of us. 
+
+	“Don’t you feel *sentiment expressing remorse@ for the cellular data you just used?”
+
+	“Hehe, how could I, such a great detective, have the time to worry over such a trifling thing?”, came the reply.
+
+	Right, but she had the time to make the call in the first place.
+
+	I was then swiftly dragged out of my house and stuffed into Zhen Cha Yuan’s car. After Zhen Cha Yuan was forced to submit a driver’s license with *name@ written on it to pay for a speeding ticket, we arrived out our destination. 
+
+	“Well, how do you plan to find this "murderer", this isn’t a muder mystery novel, you know, I bet Holmes would have solved the mystery by now.”
+
+	“Kekeke, who said I haven’t solved the mystery, we’re just waiting for the murderer to appear now.”  
+
+	“Because you're the greatest detective, huh.”
+
+	“Tch. Why’d you steal my line? My existence is limited to these mere 975 words, after all, can’t you see that you’re effectively reducing lifespan?”
+
+	“Wait, your previous line was longer than the one I stole, and it leaves a larger impact on the reader due to how unconventional it is, so isn’t your lifespan effectively increased?”
+
+	“Huh, I guess that is true, I do guess I do have to thank my author for that. Either way, I wonder, will I die first because the murderer kills me or because the story ends?”
+
+	It really was quite the question, I suppose that solved mystery or not, both of us would still end up dead. As I continued to consider the question, the question seemingly floated out of my mouth:
+
+	“If you already are the greatest detective, is there anything else for you to achieve, it is the end of the world, after all, will you just accept your death after defending your position as the world’s greatest detective?”
+
+	“Fei Wu, you really like making assumptions, don’t you? Who said that I only wanted to be the greatest detective? My goal has always been eternal life.”
+
+	Of course.
+
+	“We all die ultimately, everything still balances out to zero and whether I die now or in the future, the result will be same,”
+
+	I still had to know, even now.
+
+	“The only way achieve a different result is through eternal, to create 1 from 0, that is the only interesting outcome out of all of this, that’s why I want it”
+
+	As if comparing us would do anything.
+
+	“As for how I plan to achieve eternal life, it could be said that one entity is responsible for all death, the universe, or what we recognize as God. God is the greatest serial killer, and only by becoming the greatest detective can I catch God and obtain eternal life.”
+
+	Not that I care.
+
+	“As for who God is, it’s you, Fei Wu, isn’t it? ”
+
+	I knew it, I messed up.
+
+	“Everyone that exists here, including me, is just a figment of your imagination, aren’t they? Creating this world through sheer desire, hoping that as God, you could miraculously find something you wanted to cling onto, you had given up before you could even try.”
+
+	I really do live in a mystery novel, huh? She knew the entire time. I wonder how she caught on. Then again, even then I never really cared, after all, she was ultimately a stranger before I met her today. Following her on a mere stranger’s whim probably made me stick out like a sore thumb, I couldn’t have been more obvious if I tried. 
+
+	“The unreasonable desire that you had became me, and now here is the conclusion your alter self presents: eternal life.”
+
+	Eternal life. That was what I wanted the entire time; to become a God among Gods. Too bad that I gave up again. After all, I am still ultimately at the mercy of my writer. Even if my writer wanted to extend my life, he cannot type forever. To think that there even is a God among Gods among Gods. Regardless, if this is the end of the world, it is quite boring.
+	
+	And thus, the world ended.
+""",
+"""
     It was a *type of weather@ day. The *size@ house sat near the horizon atop a small hill, a strange dread setting over its masked silhouette in the *time of day@ light. Clouds gathered overhead, forming a turbulent throng of misty contours against the sky. Detective *name@ was dressed in a *color@ *article of clothing@, a *color@ *piece of headwear@, and a trench coat with a *weapon@ neatly tucked beneath it, just barely revealed. Slowly, ^3~ approached the house, walking along the winding cobbled pathway that led to its entrance. After reaching the doorstep, ^3~ lifted and released the heavy *hard material@ knocker, letting it collide with the door to create an echoing *loud sound@. After several seconds, the door creaked open.
 
     Inside was standing a young *living thing@, dressed in *set of clothes@. 
