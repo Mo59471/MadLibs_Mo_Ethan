@@ -31,9 +31,6 @@ This project is broken into two Python files: a main file containing the welcome
 &nbsp;
 
 ### Contributions
-  
-&nbsp;
-
 1. **Ethan Tang**
    - Wrote 2 mad lib templates, including 'I Want to Solve a Muder Mystery' and 'Humanity's Greatest Serial Killer'
    - Developd preliminary conceptual algorithm for the MadLibStory class
