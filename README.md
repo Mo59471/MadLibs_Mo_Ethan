@@ -32,5 +32,5 @@ This project is broken into two Python files: a main file containing the welcome
    - Created the readme file
 
 ### Source Files
-
+* [Source Code](https://github.com/Mo59471/Murder_Mystery_Mad_Libs/tree/main/src/MadLibs)
      
