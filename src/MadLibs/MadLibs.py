@@ -4,7 +4,7 @@ replay = True
 while replay == True:
     print("Welcome to Murder Mystery Mad Libs! Please choose one of the following stories to complete: ")
     print("1. I Want to Solve a Murder Mystery")
-    print("2. Humanity's greatest serial killer")
+    print("2. Humanity's Greatest Serial Killer")
     print("3. Murder Uno Reverse")
     print("4. The Mahjong Murder")
     while True:
@@ -24,4 +24,3 @@ while replay == True:
         replay = False
         print("Awww... you could have had so much fun. Your life must be so sad and depressing. Bye Bye.")
     
-
